@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 //@Component
 //@ConfigurationProperties
 //@RestController
-//public class TextController {
+public class TextController {
 //
 //    @Autowired
 //    private TextDao userDao;
@@ -41,4 +41,4 @@ import org.springframework.stereotype.Component;
 //        userDao.deleteUserById(1l);
 //    }
 //
-//}
+}
